@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpl32&layout=compact)](https://github.com/miguelpl32/github-readme-stats)
 
+- 📫 How to reach me: miguelpl32@gmail.com
+
 <!--
 **miguelpl32/miguelpl32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
