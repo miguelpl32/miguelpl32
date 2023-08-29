@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpl32&&show_icons=true&theme=dark
+<img src="https://camo.githubusercontent.com/07f36bf……3d61626…" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=miguelpl32&show_icons=true&theme=react" style="max-width: 100%;">
 
 [![miguelpl32 github stats](https://github-readme-stats.vercel.app/api?username=miguelpl32)](https://github.com/miguelpl32/github-readme-stats)
 
