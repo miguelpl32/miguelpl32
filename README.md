@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://camo.githubusercontent.com/0c1b0b5e96d1bf329f49a594d22550dc4e15294ae627249e2efbee4dfbbe6f0e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6162656c66756275" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=miguelpl32" style="max-width:100%;">
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelpl32&&show_icons=true&theme=dark
 
 [![miguelpl32 github stats](https://github-readme-stats.vercel.app/api?username=miguelpl32)](https://github.com/miguelpl32/github-readme-stats)
 
